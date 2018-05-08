@@ -1,5 +1,5 @@
 # High-Altitude-Ballooning-arduino-RGB
-Computer Science Student \\ Software and Hardware Hobbyist 
+HAB Arduino Project with 8 Light Sensors 
 /* TSL2591 Digital Light Sensor */ /* Dynamic Range: 600M:1 */
 /* Maximum Lux: 88K */
 
